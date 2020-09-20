@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ClientdotNET\ClientdotNET\bin\Debug\ClientdotNET.exe.config
+C:\Users\hp\source\repos\ClientdotNET\ClientdotNET\bin\Debug\ClientdotNET.exe
+C:\Users\hp\source\repos\ClientdotNET\ClientdotNET\bin\Debug\ClientdotNET.pdb
+C:\Users\hp\source\repos\ClientdotNET\ClientdotNET\obj\Debug\ClientdotNET.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ClientdotNET\ClientdotNET\obj\Debug\ClientdotNET.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ClientdotNET\ClientdotNET\obj\Debug\ClientdotNET.exe
+C:\Users\hp\source\repos\ClientdotNET\ClientdotNET\obj\Debug\ClientdotNET.pdb
